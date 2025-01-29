@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+    font-family: serif;
+}
+
+.top-container {
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+}
+
+.bottom-container {
+    background: rgb(34,193,195);
+    background: radial-gradient(circle, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+    margin: 0;
+    padding: 0;
+}
+
+.caveat {
+  font-family: "Caveat", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  color: #273b3b;
+}
+
+.profile-pic {
+    border-radius: 50%;
+}
+
+
+h3 {
+    color: #22c1c3;
+}
+
+h2 {
+    text-align: center;
+    color: #fdbb2d;
+    font-weight: bold;
+}
+
+.skills {
+    margin-bottom: 5%;
+}
+
+hr {
+    border: dotted #6b7070a7 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+.btn {
+    color:#fdbb2d;
+    background-color: #22c1c3;
+    border: #22c1c3;
+}
